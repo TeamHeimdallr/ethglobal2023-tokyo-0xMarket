@@ -1,0 +1,3 @@
+[submodule "0xMarket-web"]
+	path = 0xMarket-web
+	url = git@github.com:TeamHeimdallr/ethglobal2023-tokyo-0xMarket-web.git
