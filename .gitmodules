@@ -1,3 +1,6 @@
 [submodule "0xMarket-web"]
 	path = 0xMarket-web
 	url = git@github.com:TeamHeimdallr/ethglobal2023-tokyo-0xMarket-web.git
+[submodule "0xMarket-contract"]
+	path = 0xMarket-contract
+	url = https://github.com/TeamHeimdallr/ethglobal2023-tokyo-0xMarket-contract.git
